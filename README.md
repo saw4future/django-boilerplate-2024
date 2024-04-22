@@ -79,6 +79,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For questions or inquiries, please reach out via [email](mailto:saminulislam786@gmail.com).
+
 Md. Saminul Islam, 
 Software Engineer, 
 E-mail: saminulislam786@gmail.com
