@@ -4,7 +4,7 @@ This repository contains a Django project that serves as a boilerplate for build
 
 ## Requirements
 
-- [Python 3.x](https://www.python.org/downloads/)
+- [Python 3.11](https://www.python.org/downloads/)
 - [pip](https://pip.pypa.io/en/stable/)
 - [virtualenv](https://virtualenv.pypa.io/en/stable/) (optional but recommended)
 
